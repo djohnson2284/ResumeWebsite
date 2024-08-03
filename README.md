@@ -1,8 +1,3 @@
-03/21/24 
-Edited Index.Html to include personal information and formatting.
-Pushed files to repository.
-Created README file to document changes
-04/16/24
-Created Static Web App and connected repository.
-Added Custom Domain purchased from GoDaddy.
-CI/CD deployments failing
+Welcome, my name is Dwight and in this ReadMe, I'll discuss how I went about building my website
+using the <span><a href="https://cloudresumechallenge.dev/">Azure Resume Challenge.</a></span>.
+This project entails creating a Static Webpage in Azure using Blob Storage and incorporating several Networking principles. Overall, it is a process that encopasses 6 different subjects of using Azure to create the website.
